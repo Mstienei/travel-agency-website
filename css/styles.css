@@ -1,0 +1,18 @@
+h1.tropical {
+  color: #f7325e;
+  font-size: 50px;
+}
+.tropical {
+  color: #7dc410;
+  font-family: fantasy;
+  background-color: gray;
+  text-align: center;
+  font-size: 30px;
+}
+.popular{
+  font-style: italic;
+  font-weight: bold;
+}
+img{
+  width: 250px;
+}
